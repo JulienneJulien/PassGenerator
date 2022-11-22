@@ -11,4 +11,5 @@
 
 
 ## Visuals
-
+<img src="./Assets/images/Animation.gif">
+<img src="./Assets/images/Screenshot_20221122_024559.png">
